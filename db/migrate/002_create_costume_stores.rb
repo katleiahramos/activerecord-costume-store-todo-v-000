@@ -10,6 +10,7 @@ class CostumeStore < ActiveRecord::Migration[4.2]
       t.boolean :still_in_business
       t.integer :start_time
       t.integer :end_time
+    end 
 
 
 
